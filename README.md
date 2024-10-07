@@ -12,9 +12,15 @@ The project can simply be broken down into these, partly iterative, steps:
 
 ![image](https://github.com/user-attachments/assets/795b78bf-e54b-49b1-8346-918376be9c30)
 
-### Key Features
-**Interactive Slicers**: allow for instant data filtering based on **Gender**, **Marital Status**, **Region**, and **Education**. Additional filters can be added as needed.
-**User-Friendly Interface**: simple chart types to ensure easy visual data extraction, navigation and accessibility. The consistent use of keys and filters also makes it easy to identitfy trends and patterns in the data.
+## Key Features
+* **Interactive Slicers**: allow for instant data filtering based on **Gender**, **Marital Status**, **Region**, and **Education**. Additional filters can be added as needed.
+* **User-Friendly Interface**: simple chart types to ensure easy visual data extraction, navigation and accessibility. The consistent use of keys and filters also makes it easy to identitfy trends and patterns in the data.
 
-### Key Insights
-* 
+## Some Key Insights
+* Higher income individuals purchased more bikes than lower income individuals
+* Middle Aged individuals (ages 31 - 54) are the highest bike buyers over Old (55+) and Adolescent (<31) individuals
+* Middle Aged Females purchased more bikes than their Middle Aged Male counterparts
+* Individuals with more Children purchased fewer bikes than individuals without Children
+* European bike buyers had the shortest commute times
+
+![image](https://github.com/user-attachments/assets/018f0364-01f3-4727-96cf-3e8bba040f08)
