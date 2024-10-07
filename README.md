@@ -8,3 +8,4 @@ The project can simply be broken down into these, partly iterative, steps:
 * **Pivot Table Additions** - building pivot tables with cleaned dataset to summarize relationships between data groups to generate useful insight reports
 * **Chart Additions** - creating charts to visualise patterns, trends and comparisons formed from the pivot tables
 * **Dashboard Creation** - copy charts onto new worksheet, use Slicer to create filters, utilize 'Report Connections' to make the filters apply to relevant pivot tables (and in extension, relevant charts)
+![image](https://github.com/user-attachments/assets/795b78bf-e54b-49b1-8346-918376be9c30)
