@@ -8,4 +8,13 @@ The project can simply be broken down into these, partly iterative, steps:
 * **Pivot Table Additions** - building pivot tables with cleaned dataset to summarize relationships between data groups to generate useful insight reports
 * **Chart Additions** - creating charts to visualise patterns, trends and comparisons formed from the pivot tables
 * **Dashboard Creation** - copy charts onto new worksheet, use Slicer to create filters, utilize 'Report Connections' to make the filters apply to relevant pivot tables (and in extension, relevant charts)
+
+
 ![image](https://github.com/user-attachments/assets/795b78bf-e54b-49b1-8346-918376be9c30)
+
+### Key Features
+**Interactive Slicers**: allow for instant data filtering based on **Gender**, **Marital Status**, **Region**, and **Education**. Additional filters can be added as needed.
+**User-Friendly Interface**: simple chart types to ensure easy visual data extraction, navigation and accessibility. The consistent use of keys and filters also makes it easy to identitfy trends and patterns in the data.
+
+### Key Insights
+* 
