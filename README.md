@@ -18,7 +18,7 @@ The project can simply be broken down into these iterative steps:
 
 ## Some Key Insights
 * Higher income individuals purchased more bikes than lower income individuals
-* Middle Aged individuals (ages 31 - 54) are the highest bike buyers over Old (55+) and Adolescent (<31) individuals
+* Middle Aged individuals (ages 31 - 54) are the highest bike buyers, surpassing Old (55+) and Adolescent (<31) individuals
 * Middle Aged Females purchased more bikes than their Middle Aged Male counterparts
 * Individuals with more Children purchased fewer bikes than individuals without Children
 * European bike buyers had the shortest commute times
