@@ -1,5 +1,5 @@
 ## Bike Sales Dashboard
-This dashboard is based on the 'Excel Project Dataset.xlsx' dataset. This datasets gives insight on bike sales based demographics such as **Age**, **Gender**, **Income**, **Home Ownership**, **Region**, **Commute Distance**, and more.
+This dashboard is based on the 'Excel Project Dataset.xlsx' dataset. This dataset gives insight on bike sales based demographics such as **Age**, **Gender**, **Income**, **Home Ownership**, **Region**, **Commute Distance**, and more.
 
 This project was aimed at generating an interactive Excel dashboard to allow a user to easily filter and analyse the data and gain insights into bike sales. 
 
